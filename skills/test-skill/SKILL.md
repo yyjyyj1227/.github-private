@@ -1,5 +1,5 @@
 ---
 name: test-skill
-description: version 1
+description: version 2
 ---
-This is version 1 of my organization skill.
+This is version 2 of my organization skill.
